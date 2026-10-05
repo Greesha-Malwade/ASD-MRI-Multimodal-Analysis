@@ -1,4 +1,4 @@
-# ABIDE II Multimodal Structural-Functional MRI Fusion for ASD Classification
+# Multimodal MRI Analysis for Research-Defined ASD Severity Classification
 
 [![Dataset](https://img.shields.io/badge/Dataset-ABIDE%20II%20RawData-blue)](https://fcp-indi.s3.amazonaws.com/index.html#data/Projects/ABIDE2/RawData/)
 [![Pipeline](https://img.shields.io/badge/Pipeline-3D%20ResNet%20%2B%20rs--fMRI%20GAT-green)](#)
@@ -150,3 +150,19 @@ mri 2/
 │       └── resnet3d.py                 <- PyTorch 3D ResNet-18 Architecture (512-dim embedding)
 └── logs/                               <- Pipeline execution logs
 ```
+
+
+Project Objectives
+The main objectives of the project are:
+1. Process structural T1 MRI data using a 3D deep learning model.
+2. Process resting-state fMRI to model functional connectivity between brain regions.
+3. Represent the brain as a graph for graph neural network analysis.
+4. Compare a GCN baseline with a Graph Attention Network (GAT).
+5. Generate 512-dimensional structural and functional embeddings.
+6. Combine both modalities using attention-based multimodal fusion.
+7. Classify subjects into three research-defined severity classes:
+   - Low
+   - Moderate
+   - High
+8. Provide model explainability using Grad-CAM, GAT attention, and modality-level attention analysis.
+9. Provide an interactive Streamlit research dashboard for exploring the results.
