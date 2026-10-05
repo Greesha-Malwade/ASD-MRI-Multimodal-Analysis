@@ -1,0 +1,6 @@
+participant_id,site_code,subject_key,embedding_dimension,source_model
+29495,USM_1,USM_1_29495,512,3D ResNet-18 (best_resnet3d.pth)
+29497,USM_1,USM_1_29497,512,3D ResNet-18 (best_resnet3d.pth)
+29498,USM_1,USM_1_29498,512,3D ResNet-18 (best_resnet3d.pth)
+29500,USM_1,USM_1_29500,512,3D ResNet-18 (best_resnet3d.pth)
+29502,USM_1,USM_1_29502,512,3D ResNet-18 (best_resnet3d.pth)

@@ -1,0 +1,44 @@
+{
+    "best_epoch": 19,
+    "best_val_macro_f1": 0.37637362637362637,
+    "test_loss": 1.1892797629038492,
+    "test_accuracy": 0.4,
+    "test_macro_precision": 0.42727272727272725,
+    "test_macro_recall": 0.39615384615384613,
+    "test_macro_f1": 0.37381989832970225,
+    "test_weighted_f1": 0.4075344952795933,
+    "per_class_metrics": {
+        "Low": {
+            "precision": 0.18181818181818182,
+            "recall": 0.4,
+            "f1": 0.25
+        },
+        "Moderate": {
+            "precision": 0.5,
+            "recall": 0.5384615384615384,
+            "f1": 0.5185185185185185
+        },
+        "High": {
+            "precision": 0.6,
+            "recall": 0.25,
+            "f1": 0.35294117647058826
+        }
+    },
+    "confusion_matrix": [
+        [
+            2,
+            3,
+            0
+        ],
+        [
+            4,
+            7,
+            2
+        ],
+        [
+            5,
+            4,
+            3
+        ]
+    ]
+}

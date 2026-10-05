@@ -1,0 +1,28 @@
+Brain Region,Mean Grad-CAM Activation Weight
+Cortical: Precentral Gyrus,0.004205323755741119
+Cortical: Middle Frontal Gyrus,0.0030617068987339735
+Cortical: Superior Frontal Gyrus,0.0017515590880066156
+Subcortical: Right Cerebral Cortex,0.001458704937249422
+"Cortical: Inferior Frontal Gyrus, pars opercularis",0.0010353102115914226
+"Cortical: Inferior Frontal Gyrus, pars triangularis",0.00037211182643659413
+Cortical: Frontal Pole,6.924880290171131e-05
+Subcortical: Right Cerebral White Matter,6.843279697932303e-05
+"Cortical: Superior Temporal Gyrus, anterior division",0.0
+Cortical: Temporal Pole,0.0
+Cortical: Insular Cortex,0.0
+Cortical: Subcallosal Cortex,0.0
+Cortical: Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex),0.0
+Cortical: Paracingulate Gyrus,0.0
+"Cortical: Cingulate Gyrus, anterior division",0.0
+Cortical: Central Opercular Cortex,0.0
+Cortical: Planum Polare,0.0
+Cortical: Frontal Orbital Cortex,0.0
+Cortical: Frontal Opercular Cortex,0.0
+Subcortical: Left Cerebral Cortex,0.0
+Subcortical: Left Cerebral White Matter,0.0
+Subcortical: Left Lateral Ventricle,0.0
+Subcortical: Right Lateral Ventricle,0.0
+Subcortical: Right Thalamus,0.0
+Subcortical: Right Caudate,0.0
+Subcortical: Right Putamen,0.0
+Subcortical: Right Pallidum,0.0

@@ -1,0 +1,12 @@
+{
+    "structural_embedding_source": "3D ResNet-18 (best_resnet3d.pth)",
+    "functional_embedding_source": "2-Layer GAT (best_gat_model.pt)",
+    "structural_subjects_available": 5,
+    "functional_subjects_available": 157,
+    "structural_embedding_dim": 512,
+    "functional_embedding_dim": 512,
+    "matched_subjects_count": 0,
+    "fusion_architecture": "MultimodalAttentionFusion (256-D Projections + Modality Gating + 3-Class MLP Head)",
+    "trainable_parameters": 279813,
+    "status": "AUDITED_MODEL_READY_PENDING_MATCHED_STRUCTURAL_DATA"
+}

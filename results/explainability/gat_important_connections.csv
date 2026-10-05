@@ -1,0 +1,301 @@
+participant_id,true_class,predicted_class,source_roi_index,source_roi_name,target_roi_index,target_roi_name,gat_attention_coefficient
+28855,Moderate,High,41,Frontal Opercular Cortex,2,Insular Cortex,0.3909151256084442
+28855,Moderate,High,41,Frontal Opercular Cortex,42,Central Opercular Cortex,0.38236314058303833
+28855,Moderate,High,41,Frontal Opercular Cortex,5,"Inferior Frontal Gyrus, pars triangularis",0.3822817802429199
+28855,Moderate,High,41,Frontal Opercular Cortex,23,"Lateral Occipital Cortex, inferior division",0.3810598850250244
+28855,Moderate,High,41,Frontal Opercular Cortex,27,Subcallosal Cortex,0.3804280161857605
+28855,Moderate,High,41,Frontal Opercular Cortex,38,"Temporal Fusiform Cortex, posterior division",0.38006022572517395
+28855,Moderate,High,41,Frontal Opercular Cortex,33,Frontal Orbital Cortex,0.3793014585971832
+28855,Moderate,High,41,Frontal Opercular Cortex,22,"Lateral Occipital Cortex, superior division",0.3780098557472229
+28855,Moderate,High,41,Frontal Opercular Cortex,61,Right Amygdala,0.3778172433376312
+28855,Moderate,High,41,Frontal Opercular Cortex,58,Right Putamen,0.3777429461479187
+28859,Low,High,47,Supracalcarine Cortex,15,"Inferior Temporal Gyrus, posterior division",0.49595701694488525
+28859,Low,High,47,Supracalcarine Cortex,23,"Lateral Occipital Cortex, inferior division",0.49585309624671936
+28859,Low,High,47,Supracalcarine Cortex,34,"Parahippocampal Gyrus, anterior division",0.4948470890522003
+28859,Low,High,47,Supracalcarine Cortex,48,Occipital Pole,0.49464505910873413
+28859,Low,High,47,Supracalcarine Cortex,38,"Temporal Fusiform Cortex, posterior division",0.49458396434783936
+28859,Low,High,47,Supracalcarine Cortex,14,"Inferior Temporal Gyrus, anterior division",0.49456286430358887
+28859,Low,High,47,Supracalcarine Cortex,1,Frontal Pole,0.4934272766113281
+28859,Low,High,47,Supracalcarine Cortex,37,"Temporal Fusiform Cortex, anterior division",0.49287426471710205
+28859,Low,High,47,Supracalcarine Cortex,8,Temporal Pole,0.49264082312583923
+28859,Low,High,47,Supracalcarine Cortex,49,Left Thalamus,0.4924030601978302
+28866,High,High,41,Frontal Opercular Cortex,25,Frontal Medial Cortex,0.5625640153884888
+28866,High,High,41,Frontal Opercular Cortex,57,Right Caudate,0.5622458457946777
+28866,High,High,41,Frontal Opercular Cortex,33,Frontal Orbital Cortex,0.5616084337234497
+28866,High,High,41,Frontal Opercular Cortex,2,Insular Cortex,0.5612933039665222
+28866,High,High,41,Frontal Opercular Cortex,14,"Inferior Temporal Gyrus, anterior division",0.5606169700622559
+28866,High,High,41,Frontal Opercular Cortex,27,Subcallosal Cortex,0.5605744123458862
+28866,High,High,41,Frontal Opercular Cortex,11,"Middle Temporal Gyrus, anterior division",0.5605539083480835
+28866,High,High,41,Frontal Opercular Cortex,9,"Superior Temporal Gyrus, anterior division",0.5590469837188721
+28866,High,High,41,Frontal Opercular Cortex,8,Temporal Pole,0.5587867498397827
+28866,High,High,41,Frontal Opercular Cortex,50,Left Caudate,0.558737576007843
+28872,High,High,61,Right Amygdala,60,Right Hippocampus,0.4337306618690491
+28872,High,High,61,Right Amygdala,58,Right Putamen,0.430637001991272
+28872,High,High,61,Right Amygdala,33,Frontal Orbital Cortex,0.43052810430526733
+28872,High,High,61,Right Amygdala,51,Left Putamen,0.43010199069976807
+28872,High,High,61,Right Amygdala,8,Temporal Pole,0.4298143684864044
+28872,High,High,61,Right Amygdala,56,Right Thalamus,0.4279903173446655
+28872,High,High,61,Right Amygdala,49,Left Thalamus,0.42663103342056274
+28872,High,High,61,Right Amygdala,62,Right Accumbens,0.4255131483078003
+28872,High,High,61,Right Amygdala,52,Left Pallidum,0.4241400957107544
+28872,High,High,61,Right Amygdala,14,"Inferior Temporal Gyrus, anterior division",0.42360979318618774
+28885,Moderate,High,14,"Inferior Temporal Gyrus, anterior division",14,"Inferior Temporal Gyrus, anterior division",1.0
+28885,Moderate,High,37,"Temporal Fusiform Cortex, anterior division",37,"Temporal Fusiform Cortex, anterior division",1.0
+28885,Moderate,High,19,"Supramarginal Gyrus, anterior division",17,Postcentral Gyrus,0.23261475563049316
+28885,Moderate,High,19,"Supramarginal Gyrus, anterior division",20,"Supramarginal Gyrus, posterior division",0.2294548749923706
+28885,Moderate,High,19,"Supramarginal Gyrus, anterior division",7,Precentral Gyrus,0.22318559885025024
+28885,Moderate,High,19,"Supramarginal Gyrus, anterior division",3,Superior Frontal Gyrus,0.22155530750751495
+28885,Moderate,High,19,"Supramarginal Gyrus, anterior division",31,Precuneous Cortex,0.21805360913276672
+28885,Moderate,High,19,"Supramarginal Gyrus, anterior division",35,"Parahippocampal Gyrus, posterior division",0.21473021805286407
+28885,Moderate,High,19,"Supramarginal Gyrus, anterior division",2,Insular Cortex,0.21382156014442444
+28885,Moderate,High,19,"Supramarginal Gyrus, anterior division",10,"Superior Temporal Gyrus, posterior division",0.21304559707641602
+28897,High,High,55,Left Accumbens,50,Left Caudate,0.4399777054786682
+28897,High,High,55,Left Accumbens,7,Precentral Gyrus,0.4365810751914978
+28897,High,High,55,Left Accumbens,38,"Temporal Fusiform Cortex, posterior division",0.43597954511642456
+28897,High,High,55,Left Accumbens,15,"Inferior Temporal Gyrus, posterior division",0.43525761365890503
+28897,High,High,55,Left Accumbens,44,Planum Polare,0.4345049262046814
+28897,High,High,55,Left Accumbens,28,Paracingulate Gyrus,0.43410247564315796
+28897,High,High,55,Left Accumbens,4,Middle Frontal Gyrus,0.43363726139068604
+28897,High,High,55,Left Accumbens,14,"Inferior Temporal Gyrus, anterior division",0.43341773748397827
+28897,High,High,55,Left Accumbens,2,Insular Cortex,0.4333454370498657
+28897,High,High,55,Left Accumbens,61,Right Amygdala,0.4332829415798187
+28905,High,High,55,Left Accumbens,44,Planum Polare,0.7202033996582031
+28905,High,High,55,Left Accumbens,12,"Middle Temporal Gyrus, posterior division",0.7193090319633484
+28905,High,High,55,Left Accumbens,16,"Inferior Temporal Gyrus, temporooccipital part",0.7191852927207947
+28905,High,High,55,Left Accumbens,21,Angular Gyrus,0.7189159393310547
+28905,High,High,55,Left Accumbens,9,"Superior Temporal Gyrus, anterior division",0.7185192704200745
+28905,High,High,55,Left Accumbens,23,"Lateral Occipital Cortex, inferior division",0.7179266810417175
+28905,High,High,55,Left Accumbens,13,"Middle Temporal Gyrus, temporooccipital part",0.7174882888793945
+28905,High,High,55,Left Accumbens,37,"Temporal Fusiform Cortex, anterior division",0.7173256278038025
+28905,High,High,55,Left Accumbens,48,Occipital Pole,0.7171849012374878
+28905,High,High,55,Left Accumbens,11,"Middle Temporal Gyrus, anterior division",0.7170939445495605
+28920,Moderate,Moderate,55,Left Accumbens,27,Subcallosal Cortex,0.05543069913983345
+28920,Moderate,Moderate,55,Left Accumbens,62,Right Accumbens,0.053800735622644424
+28920,Moderate,Moderate,55,Left Accumbens,25,Frontal Medial Cortex,0.05317997559905052
+28920,Moderate,Moderate,55,Left Accumbens,49,Left Thalamus,0.05315891280770302
+28920,Moderate,Moderate,55,Left Accumbens,57,Right Caudate,0.053040143102407455
+28920,Moderate,Moderate,55,Left Accumbens,50,Left Caudate,0.0529366135597229
+28920,Moderate,Moderate,55,Left Accumbens,15,"Inferior Temporal Gyrus, posterior division",0.05219396948814392
+28920,Moderate,Moderate,55,Left Accumbens,56,Right Thalamus,0.05171893537044525
+28920,Moderate,Moderate,55,Left Accumbens,45,Heschl's Gyrus (includes H1 and H2),0.05121282488107681
+28920,Moderate,Moderate,55,Left Accumbens,38,"Temporal Fusiform Cortex, posterior division",0.051120903342962265
+28949,Low,Moderate,62,Right Accumbens,14,"Inferior Temporal Gyrus, anterior division",0.44677501916885376
+28949,Low,Moderate,62,Right Accumbens,41,Frontal Opercular Cortex,0.4465658664703369
+28949,Low,Moderate,62,Right Accumbens,52,Left Pallidum,0.44652968645095825
+28949,Low,Moderate,62,Right Accumbens,31,Precuneous Cortex,0.44645556807518005
+28949,Low,Moderate,62,Right Accumbens,27,Subcallosal Cortex,0.44640883803367615
+28949,Low,Moderate,62,Right Accumbens,22,"Lateral Occipital Cortex, superior division",0.44492214918136597
+28949,Low,Moderate,62,Right Accumbens,50,Left Caudate,0.44482356309890747
+28949,Low,Moderate,62,Right Accumbens,58,Right Putamen,0.4447407126426697
+28949,Low,Moderate,62,Right Accumbens,2,Insular Cortex,0.44442200660705566
+28949,Low,Moderate,62,Right Accumbens,37,"Temporal Fusiform Cortex, anterior division",0.4439764618873596
+28952,Moderate,High,36,Lingual Gyrus,24,Intracalcarine Cortex,0.0379115529358387
+28952,Moderate,High,36,Lingual Gyrus,47,Supracalcarine Cortex,0.03545347601175308
+28952,Moderate,High,24,Intracalcarine Cortex,36,Lingual Gyrus,0.03392490744590759
+28952,Moderate,High,36,Lingual Gyrus,32,Cuneal Cortex,0.03254476934671402
+28952,Moderate,High,24,Intracalcarine Cortex,47,Supracalcarine Cortex,0.03229677677154541
+28952,Moderate,High,36,Lingual Gyrus,39,Temporal Occipital Fusiform Cortex,0.031209534034132957
+28952,Moderate,High,36,Lingual Gyrus,22,"Lateral Occipital Cortex, superior division",0.031015438959002495
+28952,Moderate,High,36,Lingual Gyrus,44,Planum Polare,0.03055024892091751
+28952,Moderate,High,36,Lingual Gyrus,1,Frontal Pole,0.030516179278492928
+28952,Moderate,High,36,Lingual Gyrus,42,Central Opercular Cortex,0.030470889061689377
+28958,Moderate,Moderate,62,Right Accumbens,28,Paracingulate Gyrus,0.23838339745998383
+28958,Moderate,Moderate,62,Right Accumbens,25,Frontal Medial Cortex,0.235972061753273
+28958,Moderate,Moderate,62,Right Accumbens,27,Subcallosal Cortex,0.2359313666820526
+28958,Moderate,Moderate,62,Right Accumbens,33,Frontal Orbital Cortex,0.2356223464012146
+28958,Moderate,Moderate,62,Right Accumbens,51,Left Putamen,0.23443976044654846
+28958,Moderate,Moderate,62,Right Accumbens,40,Occipital Fusiform Gyrus,0.23443874716758728
+28958,Moderate,Moderate,62,Right Accumbens,58,Right Putamen,0.23443575203418732
+28958,Moderate,Moderate,62,Right Accumbens,53,Left Hippocampus,0.23421263694763184
+28958,Moderate,Moderate,62,Right Accumbens,24,Intracalcarine Cortex,0.2341616004705429
+28958,Moderate,Moderate,62,Right Accumbens,31,Precuneous Cortex,0.23415780067443848
+28972,High,Moderate,62,Right Accumbens,55,Left Accumbens,0.2677532732486725
+28972,High,Moderate,62,Right Accumbens,27,Subcallosal Cortex,0.2646244466304779
+28972,High,Moderate,62,Right Accumbens,11,"Middle Temporal Gyrus, anterior division",0.26358357071876526
+28972,High,Moderate,62,Right Accumbens,60,Right Hippocampus,0.2631632387638092
+28972,High,Moderate,62,Right Accumbens,20,"Supramarginal Gyrus, posterior division",0.2628346383571625
+28972,High,Moderate,62,Right Accumbens,59,Right Pallidum,0.26272112131118774
+28972,High,Moderate,62,Right Accumbens,15,"Inferior Temporal Gyrus, posterior division",0.2625354826450348
+28972,High,Moderate,62,Right Accumbens,54,Left Amygdala,0.26243123412132263
+28972,High,Moderate,62,Right Accumbens,5,"Inferior Frontal Gyrus, pars triangularis",0.2621574401855469
+28972,High,Moderate,62,Right Accumbens,41,Frontal Opercular Cortex,0.26206114888191223
+28987,Moderate,Moderate,14,"Inferior Temporal Gyrus, anterior division",8,Temporal Pole,0.16282501816749573
+28987,Moderate,Moderate,14,"Inferior Temporal Gyrus, anterior division",18,Superior Parietal Lobule,0.1577024757862091
+28987,Moderate,Moderate,14,"Inferior Temporal Gyrus, anterior division",40,Occipital Fusiform Gyrus,0.15669430792331696
+28987,Moderate,Moderate,14,"Inferior Temporal Gyrus, anterior division",24,Intracalcarine Cortex,0.15571947395801544
+28987,Moderate,Moderate,14,"Inferior Temporal Gyrus, anterior division",38,"Temporal Fusiform Cortex, posterior division",0.1556061953306198
+28987,Moderate,Moderate,14,"Inferior Temporal Gyrus, anterior division",17,Postcentral Gyrus,0.15547551214694977
+28987,Moderate,Moderate,14,"Inferior Temporal Gyrus, anterior division",25,Frontal Medial Cortex,0.15528902411460876
+28987,Moderate,Moderate,14,"Inferior Temporal Gyrus, anterior division",22,"Lateral Occipital Cortex, superior division",0.15498137474060059
+28987,Moderate,Moderate,14,"Inferior Temporal Gyrus, anterior division",54,Left Amygdala,0.15458978712558746
+28987,Moderate,Moderate,14,"Inferior Temporal Gyrus, anterior division",23,"Lateral Occipital Cortex, inferior division",0.1545320451259613
+28988,Moderate,High,62,Right Accumbens,60,Right Hippocampus,0.27806833386421204
+28988,Moderate,High,62,Right Accumbens,56,Right Thalamus,0.27723655104637146
+28988,Moderate,High,62,Right Accumbens,23,"Lateral Occipital Cortex, inferior division",0.27612847089767456
+28988,Moderate,High,62,Right Accumbens,33,Frontal Orbital Cortex,0.2760780155658722
+28988,Moderate,High,62,Right Accumbens,16,"Inferior Temporal Gyrus, temporooccipital part",0.2759931683540344
+28988,Moderate,High,62,Right Accumbens,39,Temporal Occipital Fusiform Cortex,0.2759270966053009
+28988,Moderate,High,62,Right Accumbens,25,Frontal Medial Cortex,0.2758912742137909
+28988,Moderate,High,62,Right Accumbens,34,"Parahippocampal Gyrus, anterior division",0.275881290435791
+28988,Moderate,High,62,Right Accumbens,40,Occipital Fusiform Gyrus,0.27579420804977417
+28988,Moderate,High,62,Right Accumbens,27,Subcallosal Cortex,0.275762677192688
+29156,Moderate,Moderate,14,"Inferior Temporal Gyrus, anterior division",14,"Inferior Temporal Gyrus, anterior division",1.0
+29156,Moderate,Moderate,37,"Temporal Fusiform Cortex, anterior division",37,"Temporal Fusiform Cortex, anterior division",1.0
+29156,Moderate,Moderate,56,Right Thalamus,49,Left Thalamus,0.021953808143734932
+29156,Moderate,Moderate,49,Left Thalamus,56,Right Thalamus,0.02183319628238678
+29156,Moderate,Moderate,17,Postcentral Gyrus,7,Precentral Gyrus,0.02097678929567337
+29156,Moderate,Moderate,7,Precentral Gyrus,17,Postcentral Gyrus,0.020649980753660202
+29156,Moderate,Moderate,2,Insular Cortex,44,Planum Polare,0.020553449168801308
+29156,Moderate,Moderate,51,Left Putamen,58,Right Putamen,0.02019670605659485
+29156,Moderate,Moderate,24,Intracalcarine Cortex,36,Lingual Gyrus,0.019993621855974197
+29156,Moderate,Moderate,58,Right Putamen,51,Left Putamen,0.019976738840341568
+29159,High,Moderate,14,"Inferior Temporal Gyrus, anterior division",14,"Inferior Temporal Gyrus, anterior division",1.0
+29159,High,Moderate,34,"Parahippocampal Gyrus, anterior division",34,"Parahippocampal Gyrus, anterior division",1.0
+29159,High,Moderate,37,"Temporal Fusiform Cortex, anterior division",37,"Temporal Fusiform Cortex, anterior division",1.0
+29159,High,Moderate,15,"Inferior Temporal Gyrus, posterior division",15,"Inferior Temporal Gyrus, posterior division",1.0
+29159,High,Moderate,12,"Middle Temporal Gyrus, posterior division",10,"Superior Temporal Gyrus, posterior division",0.022233208641409874
+29159,High,Moderate,10,"Superior Temporal Gyrus, posterior division",12,"Middle Temporal Gyrus, posterior division",0.021899864077568054
+29159,High,Moderate,56,Right Thalamus,49,Left Thalamus,0.021854979917407036
+29159,High,Moderate,49,Left Thalamus,56,Right Thalamus,0.021808015182614326
+29159,High,Moderate,6,"Inferior Frontal Gyrus, pars opercularis",41,Frontal Opercular Cortex,0.02141907997429371
+29159,High,Moderate,41,Frontal Opercular Cortex,6,"Inferior Frontal Gyrus, pars opercularis",0.020994972437620163
+29168,Low,Moderate,37,"Temporal Fusiform Cortex, anterior division",37,"Temporal Fusiform Cortex, anterior division",1.0
+29168,Low,Moderate,14,"Inferior Temporal Gyrus, anterior division",14,"Inferior Temporal Gyrus, anterior division",1.0
+29168,Low,Moderate,34,"Parahippocampal Gyrus, anterior division",34,"Parahippocampal Gyrus, anterior division",1.0
+29168,Low,Moderate,36,Lingual Gyrus,24,Intracalcarine Cortex,0.021725408732891083
+29168,Low,Moderate,7,Precentral Gyrus,17,Postcentral Gyrus,0.021670319139957428
+29168,Low,Moderate,24,Intracalcarine Cortex,36,Lingual Gyrus,0.02166588231921196
+29168,Low,Moderate,17,Postcentral Gyrus,7,Precentral Gyrus,0.021024025976657867
+29168,Low,Moderate,32,Cuneal Cortex,24,Intracalcarine Cortex,0.020481396466493607
+29168,Low,Moderate,24,Intracalcarine Cortex,47,Supracalcarine Cortex,0.02038770169019699
+29168,Low,Moderate,24,Intracalcarine Cortex,32,Cuneal Cortex,0.020339395850896835
+29174,Moderate,Low,38,"Temporal Fusiform Cortex, posterior division",38,"Temporal Fusiform Cortex, posterior division",1.0
+29174,Moderate,Low,37,"Temporal Fusiform Cortex, anterior division",37,"Temporal Fusiform Cortex, anterior division",1.0
+29174,Moderate,Low,61,Right Amygdala,61,Right Amygdala,1.0
+29174,Moderate,Low,34,"Parahippocampal Gyrus, anterior division",34,"Parahippocampal Gyrus, anterior division",1.0
+29174,Moderate,Low,14,"Inferior Temporal Gyrus, anterior division",14,"Inferior Temporal Gyrus, anterior division",1.0
+29174,Moderate,Low,15,"Inferior Temporal Gyrus, posterior division",15,"Inferior Temporal Gyrus, posterior division",1.0
+29174,Moderate,Low,54,Left Amygdala,54,Left Amygdala,1.0
+29174,Moderate,Low,45,Heschl's Gyrus (includes H1 and H2),46,Planum Temporale,0.023147042840719223
+29174,Moderate,Low,46,Planum Temporale,45,Heschl's Gyrus (includes H1 and H2),0.02265744097530842
+29174,Moderate,Low,47,Supracalcarine Cortex,24,Intracalcarine Cortex,0.022260140627622604
+29181,Moderate,Low,34,"Parahippocampal Gyrus, anterior division",34,"Parahippocampal Gyrus, anterior division",1.0
+29181,Moderate,Low,14,"Inferior Temporal Gyrus, anterior division",14,"Inferior Temporal Gyrus, anterior division",1.0
+29181,Moderate,Low,37,"Temporal Fusiform Cortex, anterior division",37,"Temporal Fusiform Cortex, anterior division",1.0
+29181,Moderate,Low,15,"Inferior Temporal Gyrus, posterior division",15,"Inferior Temporal Gyrus, posterior division",1.0
+29181,Moderate,Low,43,Parietal Opercular Cortex,19,"Supramarginal Gyrus, anterior division",0.021752988919615746
+29181,Moderate,Low,43,Parietal Opercular Cortex,46,Planum Temporale,0.021643277257680893
+29181,Moderate,Low,42,Central Opercular Cortex,2,Insular Cortex,0.021493881940841675
+29181,Moderate,Low,46,Planum Temporale,43,Parietal Opercular Cortex,0.02149147167801857
+29181,Moderate,Low,19,"Supramarginal Gyrus, anterior division",43,Parietal Opercular Cortex,0.02140599675476551
+29181,Moderate,Low,2,Insular Cortex,42,Central Opercular Cortex,0.02119702473282814
+29190,High,Low,62,Right Accumbens,62,Right Accumbens,1.0
+29190,High,Low,61,Right Amygdala,61,Right Amygdala,1.0
+29190,High,Low,15,"Inferior Temporal Gyrus, posterior division",15,"Inferior Temporal Gyrus, posterior division",1.0
+29190,High,Low,14,"Inferior Temporal Gyrus, anterior division",14,"Inferior Temporal Gyrus, anterior division",1.0
+29190,High,Low,11,"Middle Temporal Gyrus, anterior division",11,"Middle Temporal Gyrus, anterior division",1.0
+29190,High,Low,25,Frontal Medial Cortex,25,Frontal Medial Cortex,1.0
+29190,High,Low,34,"Parahippocampal Gyrus, anterior division",34,"Parahippocampal Gyrus, anterior division",1.0
+29190,High,Low,35,"Parahippocampal Gyrus, posterior division",35,"Parahippocampal Gyrus, posterior division",1.0
+29190,High,Low,37,"Temporal Fusiform Cortex, anterior division",37,"Temporal Fusiform Cortex, anterior division",1.0
+29190,High,Low,38,"Temporal Fusiform Cortex, posterior division",38,"Temporal Fusiform Cortex, posterior division",1.0
+29195,High,Low,14,"Inferior Temporal Gyrus, anterior division",14,"Inferior Temporal Gyrus, anterior division",1.0
+29195,High,Low,37,"Temporal Fusiform Cortex, anterior division",37,"Temporal Fusiform Cortex, anterior division",1.0
+29195,High,Low,43,Parietal Opercular Cortex,46,Planum Temporale,0.020546451210975647
+29195,High,Low,46,Planum Temporale,43,Parietal Opercular Cortex,0.02022906392812729
+29195,High,Low,43,Parietal Opercular Cortex,21,Angular Gyrus,0.020228734239935875
+29195,High,Low,7,Precentral Gyrus,17,Postcentral Gyrus,0.020225204527378082
+29195,High,Low,43,Parietal Opercular Cortex,33,Frontal Orbital Cortex,0.020191600546240807
+29195,High,Low,46,Planum Temporale,13,"Middle Temporal Gyrus, temporooccipital part",0.019942540675401688
+29195,High,Low,6,"Inferior Frontal Gyrus, pars opercularis",1,Frontal Pole,0.01991165243089199
+29195,High,Low,19,"Supramarginal Gyrus, anterior division",20,"Supramarginal Gyrus, posterior division",0.01986723020672798
+29199,Low,Moderate,37,"Temporal Fusiform Cortex, anterior division",37,"Temporal Fusiform Cortex, anterior division",1.0
+29199,Low,Moderate,14,"Inferior Temporal Gyrus, anterior division",14,"Inferior Temporal Gyrus, anterior division",1.0
+29199,Low,Moderate,29,"Cingulate Gyrus, anterior division",28,Paracingulate Gyrus,0.022124137729406357
+29199,Low,Moderate,28,Paracingulate Gyrus,29,"Cingulate Gyrus, anterior division",0.021982254460453987
+29199,Low,Moderate,29,"Cingulate Gyrus, anterior division",32,Cuneal Cortex,0.02115936391055584
+29199,Low,Moderate,51,Left Putamen,2,Insular Cortex,0.02114323154091835
+29199,Low,Moderate,51,Left Putamen,42,Central Opercular Cortex,0.021062256768345833
+29199,Low,Moderate,47,Supracalcarine Cortex,30,"Cingulate Gyrus, posterior division",0.020951908081769943
+29199,Low,Moderate,2,Insular Cortex,42,Central Opercular Cortex,0.020937852561473846
+29199,Low,Moderate,47,Supracalcarine Cortex,2,Insular Cortex,0.02092958241701126
+29204,Moderate,Low,14,"Inferior Temporal Gyrus, anterior division",14,"Inferior Temporal Gyrus, anterior division",1.0
+29204,Moderate,Low,37,"Temporal Fusiform Cortex, anterior division",37,"Temporal Fusiform Cortex, anterior division",1.0
+29204,Moderate,Low,34,"Parahippocampal Gyrus, anterior division",34,"Parahippocampal Gyrus, anterior division",1.0
+29204,Moderate,Low,21,Angular Gyrus,22,"Lateral Occipital Cortex, superior division",0.02213338203728199
+29204,Moderate,Low,22,"Lateral Occipital Cortex, superior division",21,Angular Gyrus,0.021406272426247597
+29204,Moderate,Low,43,Parietal Opercular Cortex,46,Planum Temporale,0.020801469683647156
+29204,Moderate,Low,21,Angular Gyrus,20,"Supramarginal Gyrus, posterior division",0.020773332566022873
+29204,Moderate,Low,20,"Supramarginal Gyrus, posterior division",21,Angular Gyrus,0.02064015157520771
+29204,Moderate,Low,46,Planum Temporale,43,Parietal Opercular Cortex,0.020547159016132355
+29204,Moderate,Low,57,Right Caudate,35,"Parahippocampal Gyrus, posterior division",0.02028530463576317
+29206,High,Low,62,Right Accumbens,62,Right Accumbens,1.0
+29206,High,Low,40,Occipital Fusiform Gyrus,40,Occipital Fusiform Gyrus,1.0
+29206,High,Low,38,"Temporal Fusiform Cortex, posterior division",38,"Temporal Fusiform Cortex, posterior division",1.0
+29206,High,Low,37,"Temporal Fusiform Cortex, anterior division",37,"Temporal Fusiform Cortex, anterior division",1.0
+29206,High,Low,36,Lingual Gyrus,36,Lingual Gyrus,1.0
+29206,High,Low,35,"Parahippocampal Gyrus, posterior division",35,"Parahippocampal Gyrus, posterior division",1.0
+29206,High,Low,2,Insular Cortex,2,Insular Cortex,1.0
+29206,High,Low,33,Frontal Orbital Cortex,33,Frontal Orbital Cortex,1.0
+29206,High,Low,27,Subcallosal Cortex,27,Subcallosal Cortex,1.0
+29206,High,Low,25,Frontal Medial Cortex,25,Frontal Medial Cortex,1.0
+29385,Moderate,Low,14,"Inferior Temporal Gyrus, anterior division",14,"Inferior Temporal Gyrus, anterior division",1.0
+29385,Moderate,Low,34,"Parahippocampal Gyrus, anterior division",34,"Parahippocampal Gyrus, anterior division",1.0
+29385,Moderate,Low,37,"Temporal Fusiform Cortex, anterior division",37,"Temporal Fusiform Cortex, anterior division",1.0
+29385,Moderate,Low,15,"Inferior Temporal Gyrus, posterior division",15,"Inferior Temporal Gyrus, posterior division",1.0
+29385,Moderate,Low,55,Left Accumbens,32,Cuneal Cortex,0.75
+29385,Moderate,Low,55,Left Accumbens,35,"Parahippocampal Gyrus, posterior division",0.75
+29385,Moderate,Low,55,Left Accumbens,36,Lingual Gyrus,0.75
+29385,Moderate,Low,55,Left Accumbens,39,Temporal Occipital Fusiform Cortex,0.75
+29385,Moderate,Low,55,Left Accumbens,40,Occipital Fusiform Gyrus,0.75
+29385,Moderate,Low,55,Left Accumbens,41,Frontal Opercular Cortex,0.75
+29400,Low,Low,55,Left Accumbens,42,Central Opercular Cortex,0.75
+29400,Low,Low,55,Left Accumbens,11,"Middle Temporal Gyrus, anterior division",0.75
+29400,Low,Low,55,Left Accumbens,23,"Lateral Occipital Cortex, inferior division",0.75
+29400,Low,Low,55,Left Accumbens,22,"Lateral Occipital Cortex, superior division",0.75
+29400,Low,Low,55,Left Accumbens,21,Angular Gyrus,0.75
+29400,Low,Low,55,Left Accumbens,20,"Supramarginal Gyrus, posterior division",0.75
+29400,Low,Low,55,Left Accumbens,19,"Supramarginal Gyrus, anterior division",0.75
+29400,Low,Low,55,Left Accumbens,18,Superior Parietal Lobule,0.75
+29400,Low,Low,55,Left Accumbens,17,Postcentral Gyrus,0.75
+29400,Low,Low,55,Left Accumbens,16,"Inferior Temporal Gyrus, temporooccipital part",0.75
+29416,High,High,32,Cuneal Cortex,31,Precuneous Cortex,0.75
+29416,High,High,32,Cuneal Cortex,26,Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex),0.75
+29416,High,High,32,Cuneal Cortex,38,"Temporal Fusiform Cortex, posterior division",0.75
+29416,High,High,32,Cuneal Cortex,37,"Temporal Fusiform Cortex, anterior division",0.75
+29416,High,High,32,Cuneal Cortex,35,"Parahippocampal Gyrus, posterior division",0.75
+29416,High,High,32,Cuneal Cortex,34,"Parahippocampal Gyrus, anterior division",0.75
+29416,High,High,32,Cuneal Cortex,33,Frontal Orbital Cortex,0.75
+29416,High,High,32,Cuneal Cortex,30,"Cingulate Gyrus, posterior division",0.75
+29416,High,High,32,Cuneal Cortex,29,"Cingulate Gyrus, anterior division",0.75
+29416,High,High,32,Cuneal Cortex,28,Paracingulate Gyrus,0.75
+29481,High,High,61,Right Amygdala,61,Right Amygdala,1.0
+29481,High,High,37,"Temporal Fusiform Cortex, anterior division",37,"Temporal Fusiform Cortex, anterior division",1.0
+29481,High,High,15,"Inferior Temporal Gyrus, posterior division",15,"Inferior Temporal Gyrus, posterior division",1.0
+29481,High,High,14,"Inferior Temporal Gyrus, anterior division",14,"Inferior Temporal Gyrus, anterior division",1.0
+29481,High,High,11,"Middle Temporal Gyrus, anterior division",11,"Middle Temporal Gyrus, anterior division",1.0
+29481,High,High,54,Left Amygdala,54,Left Amygdala,1.0
+29481,High,High,38,"Temporal Fusiform Cortex, posterior division",38,"Temporal Fusiform Cortex, posterior division",1.0
+29481,High,High,34,"Parahippocampal Gyrus, anterior division",34,"Parahippocampal Gyrus, anterior division",1.0
+29481,High,High,47,Supracalcarine Cortex,40,Occipital Fusiform Gyrus,0.75
+29481,High,High,47,Supracalcarine Cortex,39,Temporal Occipital Fusiform Cortex,0.75
+29733,High,High,32,Cuneal Cortex,38,"Temporal Fusiform Cortex, posterior division",0.3224807381629944
+29733,High,High,32,Cuneal Cortex,35,"Parahippocampal Gyrus, posterior division",0.32130661606788635
+29733,High,High,32,Cuneal Cortex,39,Temporal Occipital Fusiform Cortex,0.31688228249549866
+29733,High,High,32,Cuneal Cortex,60,Right Hippocampus,0.31571412086486816
+29733,High,High,32,Cuneal Cortex,25,Frontal Medial Cortex,0.3149486780166626
+29733,High,High,32,Cuneal Cortex,24,Intracalcarine Cortex,0.31471318006515503
+29733,High,High,32,Cuneal Cortex,21,Angular Gyrus,0.3146089017391205
+29733,High,High,32,Cuneal Cortex,44,Planum Polare,0.31457194685935974
+29733,High,High,32,Cuneal Cortex,10,"Superior Temporal Gyrus, posterior division",0.3145058751106262
+29733,High,High,32,Cuneal Cortex,53,Left Hippocampus,0.3139863908290863
+30014,Moderate,High,46,Planum Temporale,10,"Superior Temporal Gyrus, posterior division",0.02452457696199417
+30014,Moderate,High,10,"Superior Temporal Gyrus, posterior division",46,Planum Temporale,0.02359868213534355
+30014,Moderate,High,45,Heschl's Gyrus (includes H1 and H2),2,Insular Cortex,0.022993631660938263
+30014,Moderate,High,45,Heschl's Gyrus (includes H1 and H2),42,Central Opercular Cortex,0.022513091564178467
+30014,Moderate,High,43,Parietal Opercular Cortex,19,"Supramarginal Gyrus, anterior division",0.02250196598470211
+30014,Moderate,High,26,Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex),3,Superior Frontal Gyrus,0.02171188034117222
+30014,Moderate,High,46,Planum Temporale,12,"Middle Temporal Gyrus, posterior division",0.021697120741009712
+30014,Moderate,High,45,Heschl's Gyrus (includes H1 and H2),44,Planum Polare,0.02135634794831276
+30014,Moderate,High,54,Left Amygdala,60,Right Hippocampus,0.021336626261472702
+30014,Moderate,High,54,Left Amygdala,61,Right Amygdala,0.021266767755150795

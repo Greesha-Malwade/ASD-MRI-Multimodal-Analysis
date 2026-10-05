@@ -1,0 +1,39 @@
+{
+    "python_version": "3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]",
+    "pytorch_version": "2.14.0+cpu",
+    "pytorch_geometric_version": "2.8.0.post1",
+    "random_seed": 42,
+    "device": "cpu",
+    "total_graphs": 157,
+    "train_graphs": 102,
+    "validation_graphs": 25,
+    "test_graphs": 30,
+    "node_features_dim": 5,
+    "num_nodes_per_graph": 62,
+    "num_classes": 3,
+    "model_architecture": "GATConv(5,16,heads=4) -> GATConv(64,16,heads=4) -> GlobalMeanPool -> Linear(64,32) -> Linear(32,3)",
+    "num_heads": 4,
+    "num_layers": 2,
+    "edge_weights_used": true,
+    "edge_weight_definition": "Absolute Fisher z-transformed correlation weight (torch.abs(edge_attr))",
+    "num_trainable_parameters": 7235,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "dropout": 0.2,
+    "batch_size": 16,
+    "max_epochs": 100,
+    "patience": 15,
+    "early_stopping_metric": "val_macro_f1",
+    "best_epoch": 19,
+    "training_time_seconds": 107.23,
+    "class_weights": {
+        "Low": 1.7895,
+        "Moderate": 0.7727,
+        "High": 0.8718
+    },
+    "train_class_counts": {
+        "Low": 19,
+        "Moderate": 44,
+        "High": 39
+    }
+}

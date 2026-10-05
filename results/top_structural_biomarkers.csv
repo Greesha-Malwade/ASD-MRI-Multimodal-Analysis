@@ -1,0 +1,87 @@
+Feature Name,Raw Column,ASD Mean ± SD,Control Mean ± SD,Cohen's d,Mann-Whitney U,p-value,FDR q-value,Significant (q < 0.05)
+Intensity Mean,intensity_mean,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Intensity Std,intensity_std,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Intensity Median,intensity_median,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Intensity Skew,intensity_skew,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Intensity Kurtosis,intensity_kurtosis,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Intensity Q25,intensity_q25,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Intensity Q75,intensity_q75,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Bbox Span X,bbox_span_x,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Bbox Span Y,bbox_span_y,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Bbox Span Z,bbox_span_z,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Total Brain Voxels,total_brain_voxels,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Gm,vol_gm,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Wm,vol_wm,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Csf,vol_csf,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Tbv,vol_tbv,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Ratio Gm Wm,ratio_gm_wm,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Ratio Gm Tbv,ratio_gm_tbv,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Frontal Pole,vol_ho_cort_frontal_pole,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Insular Cortex,vol_ho_cort_insular_cortex,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Superior Frontal Gyrus,vol_ho_cort_superior_frontal_gyrus,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Middle Frontal Gyrus,vol_ho_cort_middle_frontal_gyrus,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+"Inferior Frontal Gyrus, Pars Triangularis","vol_ho_cort_inferior_frontal_gyrus,_pars_triangularis",0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+"Inferior Frontal Gyrus, Pars Opercularis","vol_ho_cort_inferior_frontal_gyrus,_pars_opercularis",0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Precentral Gyrus,vol_ho_cort_precentral_gyrus,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Temporal Pole,vol_ho_cort_temporal_pole,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+"Superior Temporal Gyrus, Anterior Division","vol_ho_cort_superior_temporal_gyrus,_anterior_division",0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+"Superior Temporal Gyrus, Posterior Division","vol_ho_cort_superior_temporal_gyrus,_posterior_division",0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+"Middle Temporal Gyrus, Anterior Division","vol_ho_cort_middle_temporal_gyrus,_anterior_division",0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+"Middle Temporal Gyrus, Posterior Division","vol_ho_cort_middle_temporal_gyrus,_posterior_division",0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+"Middle Temporal Gyrus, Temporooccipital Part","vol_ho_cort_middle_temporal_gyrus,_temporooccipital_part",0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+"Inferior Temporal Gyrus, Anterior Division","vol_ho_cort_inferior_temporal_gyrus,_anterior_division",0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+"Inferior Temporal Gyrus, Posterior Division","vol_ho_cort_inferior_temporal_gyrus,_posterior_division",0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+"Inferior Temporal Gyrus, Temporooccipital Part","vol_ho_cort_inferior_temporal_gyrus,_temporooccipital_part",0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Postcentral Gyrus,vol_ho_cort_postcentral_gyrus,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Superior Parietal Lobule,vol_ho_cort_superior_parietal_lobule,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+"Supramarginal Gyrus, Anterior Division","vol_ho_cort_supramarginal_gyrus,_anterior_division",0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+"Supramarginal Gyrus, Posterior Division","vol_ho_cort_supramarginal_gyrus,_posterior_division",0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Angular Gyrus,vol_ho_cort_angular_gyrus,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+"Lateral Occipital Cortex, Superior Division","vol_ho_cort_lateral_occipital_cortex,_superior_division",0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+"Lateral Occipital Cortex, Inferior Division","vol_ho_cort_lateral_occipital_cortex,_inferior_division",0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Intracalcarine Cortex,vol_ho_cort_intracalcarine_cortex,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Frontal Medial Cortex,vol_ho_cort_frontal_medial_cortex,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Juxtapositional Lobule Cortex (Formerly Supplementary Motor Cortex),vol_ho_cort_juxtapositional_lobule_cortex_(formerly_supplementary_motor_cortex),0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Subcallosal Cortex,vol_ho_cort_subcallosal_cortex,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Paracingulate Gyrus,vol_ho_cort_paracingulate_gyrus,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+"Cingulate Gyrus, Anterior Division","vol_ho_cort_cingulate_gyrus,_anterior_division",0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+"Cingulate Gyrus, Posterior Division","vol_ho_cort_cingulate_gyrus,_posterior_division",0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Precuneous Cortex,vol_ho_cort_precuneous_cortex,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Cuneal Cortex,vol_ho_cort_cuneal_cortex,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Frontal Orbital Cortex,vol_ho_cort_frontal_orbital_cortex,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+"Parahippocampal Gyrus, Anterior Division","vol_ho_cort_parahippocampal_gyrus,_anterior_division",0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+"Parahippocampal Gyrus, Posterior Division","vol_ho_cort_parahippocampal_gyrus,_posterior_division",0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Lingual Gyrus,vol_ho_cort_lingual_gyrus,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+"Temporal Fusiform Cortex, Anterior Division","vol_ho_cort_temporal_fusiform_cortex,_anterior_division",0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+"Temporal Fusiform Cortex, Posterior Division","vol_ho_cort_temporal_fusiform_cortex,_posterior_division",0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Temporal Occipital Fusiform Cortex,vol_ho_cort_temporal_occipital_fusiform_cortex,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Occipital Fusiform Gyrus,vol_ho_cort_occipital_fusiform_gyrus,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Frontal Opercular Cortex,vol_ho_cort_frontal_opercular_cortex,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Central Opercular Cortex,vol_ho_cort_central_opercular_cortex,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Parietal Opercular Cortex,vol_ho_cort_parietal_opercular_cortex,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Planum Polare,vol_ho_cort_planum_polare,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Heschls Gyrus (Includes H1 And H2),vol_ho_cort_heschls_gyrus_(includes_h1_and_h2),0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Planum Temporale,vol_ho_cort_planum_temporale,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Supracalcarine Cortex,vol_ho_cort_supracalcarine_cortex,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Occipital Pole,vol_ho_cort_occipital_pole,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Left Cerebral White Matter,vol_ho_sub_left_cerebral_white_matter,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Left Cerebral Cortex,vol_ho_sub_left_cerebral_cortex,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Left Lateral Ventricle,vol_ho_sub_left_lateral_ventricle,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Left Thalamus,vol_ho_sub_left_thalamus,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Left Caudate,vol_ho_sub_left_caudate,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Left Putamen,vol_ho_sub_left_putamen,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Left Pallidum,vol_ho_sub_left_pallidum,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Brain Stem,vol_ho_sub_brain_stem,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Left Hippocampus,vol_ho_sub_left_hippocampus,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Left Amygdala,vol_ho_sub_left_amygdala,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Left Accumbens,vol_ho_sub_left_accumbens,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Right Cerebral White Matter,vol_ho_sub_right_cerebral_white_matter,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Right Cerebral Cortex,vol_ho_sub_right_cerebral_cortex,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Right Lateral Ventricle,vol_ho_sub_right_lateral_ventricle,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Right Thalamus,vol_ho_sub_right_thalamus,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Right Caudate,vol_ho_sub_right_caudate,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Right Putamen,vol_ho_sub_right_putamen,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Right Pallidum,vol_ho_sub_right_pallidum,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Right Hippocampus,vol_ho_sub_right_hippocampus,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Right Amygdala,vol_ho_sub_right_amygdala,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No
+Right Accumbens,vol_ho_sub_right_accumbens,0.00 ± 0.00,0.00 ± 0.00,0.0,0.0,1.0000e+00,1.0000e+00,No

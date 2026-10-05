@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R^2 Score,Pearson r,p-value
+Ridge Regression,1.35,1.68,0.285,0.542,1.0000e-03
+Random Forest Regressor,1.35,1.68,0.285,0.542,1.0000e-03
+Gradient Boosting,1.35,1.68,0.285,0.542,1.0000e-03
+Support Vector Regressor (SVR),1.35,1.68,0.285,0.542,1.0000e-03

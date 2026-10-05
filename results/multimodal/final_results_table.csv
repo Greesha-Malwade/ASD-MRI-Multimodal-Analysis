@@ -1,0 +1,17 @@
+Metric,Value
+Test Accuracy,0.4
+Test Macro Precision,0.3693
+Test Macro Recall,0.3637
+Test Macro F1,0.3592
+Test Weighted F1,0.4072
+Low Precision,0.125
+Low Recall,0.2
+Low F1,0.1538
+Moderate Precision,0.4444
+Moderate Recall,0.3077
+Moderate F1,0.3636
+High Precision,0.5385
+High Recall,0.5833
+High F1,0.56
+Mean Structural Attention,0.4892
+Mean Functional Attention,0.5108

@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large MRI / neuroimaging files
+*.nii
+*.nii.gz
+*.dcm
+*.mnc
+
+# Large ML/model files
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.h5
+*.keras
+
+# Large arrays
+*.npy
+*.npz
+
+# Local datasets
+data/
+dataset/
+datasets/
+raw_data/
+RawData/
+
+# Generated caches / temporary files
+*.tmp
+*.cache
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# Local environment/config secrets
+.env
+.env.*
+
+# Python cache
+.pytest_cache/

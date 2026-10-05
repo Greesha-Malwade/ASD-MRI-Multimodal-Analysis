@@ -1,0 +1,63 @@
+roi_index,roi_name,system,mean_gat_importance_score,edge_occurrences
+37,"Temporal Fusiform Cortex, anterior division",Cortical,0.9468058784802754,30
+34,"Parahippocampal Gyrus, anterior division",Cortical,0.9221435989204206,19
+15,"Inferior Temporal Gyrus, posterior division",Cortical,0.8278715051710606,16
+11,"Middle Temporal Gyrus, anterior division",Cortical,0.7864039279520512,8
+14,"Inferior Temporal Gyrus, anterior division",Cortical,0.7159589127852366,39
+38,"Temporal Fusiform Cortex, posterior division",Cortical,0.705988771468401,15
+35,"Parahippocampal Gyrus, posterior division",Cortical,0.6729246820840571,9
+9,"Superior Temporal Gyrus, anterior division",Cortical,0.6387831270694733,2
+48,Occipital Pole,Cortical,0.605914980173111,2
+40,Occipital Fusiform Gyrus,Cortical,0.5952753233058112,7
+61,Right Amygdala,Subcortical,0.5850033404207543,19
+16,"Inferior Temporal Gyrus, temporooccipital part",Cortical,0.5817261536916097,3
+25,Frontal Medial Cortex,Cortical,0.5597845029085875,10
+54,Left Amygdala,Subcortical,0.5574530519079417,8
+55,Left Accumbens,Subcortical,0.5176337464375699,47
+33,Frontal Orbital Cortex,Cortical,0.5170366621265808,9
+27,Subcallosal Cortex,Cortical,0.4687956062455972,9
+23,"Lateral Occipital Cortex, inferior division",Cortical,0.46258336305618286,6
+32,Cuneal Cortex,Cortical,0.46032974623143674,25
+18,Superior Parietal Lobule,Cortical,0.45385123789310455,2
+41,Frontal Opercular Cortex,Cortical,0.43668195776641366,25
+52,Left Pallidum,Subcortical,0.4353348910808563,2
+4,Middle Frontal Gyrus,Cortical,0.43363726139068604,1
+39,Temporal Occipital Fusiform Cortex,Cortical,0.4248037826269865,5
+31,Precuneous Cortex,Cortical,0.4121667444705963,4
+8,Temporal Pole,Cortical,0.4110167399048805,4
+26,Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex),Cortical,0.3858559401705861,2
+30,"Cingulate Gyrus, posterior division",Cortical,0.38547595404088497,2
+50,Left Caudate,Subcortical,0.3741188645362854,4
+13,"Middle Temporal Gyrus, temporooccipital part",Cortical,0.3687154147773981,2
+47,Supracalcarine Cortex,Cortical,0.36633745001422036,18
+62,Right Accumbens,Subcortical,0.36268078057986236,46
+5,"Inferior Frontal Gyrus, pars triangularis",Cortical,0.3222196102142334,2
+2,Insular Cortex,Cortical,0.29950329195708036,14
+28,Paracingulate Gyrus,Cortical,0.29331845305860044,5
+53,Left Hippocampus,Subcortical,0.27409951388835907,2
+59,Right Pallidum,Subcortical,0.26272112131118774,1
+60,Right Hippocampus,Subcortical,0.2624025963246822,5
+22,"Lateral Occipital Cortex, superior division",Cortical,0.25749549615596024,7
+44,Planum Polare,Cortical,0.2569567197933793,6
+58,Right Putamen,Subcortical,0.254621642952164,6
+21,Angular Gyrus,Cortical,0.2360883392393589,8
+20,"Supramarginal Gyrus, posterior division",Cortical,0.2172617046162486,6
+57,Right Caudate,Subcortical,0.21185709784428278,3
+36,Lingual Gyrus,Cortical,0.20713212726016839,15
+29,"Cingulate Gyrus, anterior division",Cortical,0.20381643902510405,4
+19,"Supramarginal Gyrus, anterior division",Cortical,0.20015305409637782,13
+12,"Middle Temporal Gyrus, posterior division",Cortical,0.196284806355834,4
+1,Frontal Pole,Cortical,0.18128503610690436,3
+42,Central Opercular Cortex,Cortical,0.15875476715154946,8
+17,Postcentral Gyrus,Cortical,0.15532957343384624,8
+49,Left Thalamus,Subcortical,0.1513775722788913,7
+51,Left Putamen,Subcortical,0.12448678072541952,6
+3,Superior Frontal Gyrus,Cortical,0.12163359392434359,2
+56,Right Thalamus,Subcortical,0.12062797189823218,7
+7,Precentral Gyrus,Cortical,0.10918757053358215,7
+10,"Superior Temporal Gyrus, posterior division",Cortical,0.10330130066722631,6
+24,Intracalcarine Cortex,Cortical,0.07350623378386864,13
+45,Heschl's Gyrus (includes H1 and H2),Cortical,0.02731339664508899,6
+46,Planum Temporale,Cortical,0.021735524758696556,12
+43,Parietal Opercular Cortex,Cortical,0.021030925383621998,11
+6,"Inferior Frontal Gyrus, pars opercularis",Cortical,0.020775234947601955,3
